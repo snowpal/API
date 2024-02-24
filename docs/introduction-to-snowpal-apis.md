@@ -2,9 +2,6 @@
 
 In this conversation, Krish from Snowpal introduces their backend as a service APIs and explains how they can help companies reduce time to market for applications. He highlights the versatility of their APIs, which can be used across various industries and for different types of problems. Krish emphasizes the importance of focusing on core customer problems and not spending unnecessary time and resources on building backend systems. He shares Snowpal’s journey and how they developed their APIs to solve their own challenges. Krish also provides an overview of specific APIs and discusses the benefits of leveraging Snowpal’s services for quick and efficient solutions.
 
-
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nn1abpcrhfslsiueu1o6.png)
-
 ## Takeaways
 Snowpal provides backend as a service APIs to help companies reduce time to market for applications.
 
@@ -49,7 +46,8 @@ By leveraging Snowpal’s APIs, companies can quickly and efficiently build solu
 
 24:11 Summary and Closure
 
-https://youtu.be/0fqXcm3e3EY
+[![Video](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nn1abpcrhfslsiueu1o6.png)](youtu.be/0fqXcm3e3EY)
+
 
 ## Transcript
 Krish (saas.snowpal.com) (00:00.918)
