@@ -46,7 +46,7 @@ By leveraging Snowpal’s APIs, companies can quickly and efficiently build solu
 
 24:11 Summary and Closure
 
-[![Video](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nn1abpcrhfslsiueu1o6.png)](youtu.be/0fqXcm3e3EY)
+[![Video](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nn1abpcrhfslsiueu1o6.png)](https://youtu.be/0fqXcm3e3EY)
 
 
 ## Transcript
