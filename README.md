@@ -1,4 +1,4 @@
-# Getting Started with Snowpal APIs
+# Getting Started with Snowpal Backend as a Service APIs
 
 Domain-agnostic APIs to build web, mobile or server side apps in quick time. Pick a plan on aws.snowpal.com, or license our products to run in your own infrastructure.
 
