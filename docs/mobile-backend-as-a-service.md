@@ -8,13 +8,13 @@ So, after we launched our apps, we decided to make lives easier for other compan
 
 Today, if you are a team that’s looking to build a mobile app, you will have a lot lesser to do if you leveraged what we have. This way, you can most (if not all) of your time in focusing on your core customer problems and solving those.
 
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcebb6434-1a69-4351-bde3-bfefe1a226b4_1280x720.jpeg)
 
-
-What are some of our mobile components you can leverage?
+## What are some of our mobile components you can leverage?
 
 We call them components, loosely speaking, but look at a mobile app as needing several different pieces, and the more pieces of the puzzle you do not have to build yourself, the quicker you can go to market. Our interest is in providing those pieces to you in a seamless fashion.
 
-## UI Components
+### UI Components
 
 Our apps are built on the popular cross platform Flutter framework, and you can license our code to give you a head start. Imagine having all the fundamental building blocks of an app so all you really have to do is tweak it to suit your needs. Note that it is not a UI template but is a full fledged app with API Integration. You will get the following reusable components amongst other things:
 
@@ -42,7 +42,7 @@ Our apps are built on the popular cross platform Flutter framework, and you can 
 
 There’s a lot more but that should give you an idea.
 
-## API Integration
+### API Integration
 
 We also provide numerous APIs for you to pick and choose from. Even better, the app comes with some of that integration out of the box so all you have to do is do the mapping between your requirements on both the UI and API sides and work towards solving your core customer problems from the get go.
 
